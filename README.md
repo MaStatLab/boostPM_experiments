@@ -17,7 +17,7 @@ The following R files are included:
 
 1. `Density_estimation.R`: density estimation for multi-variate data sets (Section 3.1 and 3.2)
 2. `Variable.R`: evaluation of the variable importance (Section 3.3)
-3. `simulation.R`: functions to simulate data sets
+3. `Simulation.R`: functions to simulate data sets
 
 For the benchmark data sets used in Section 3.2, they are pre-processed following these two papers:
 
