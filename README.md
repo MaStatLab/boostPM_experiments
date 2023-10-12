@@ -10,7 +10,7 @@ To run the program, the R package `boostPM` needs to be installed  using `devtoo
 
 ```
 library(devtools)
-install_github("nawaya040/boostPM")
+install_github("MaStatLab/boostPM")
 ```
 
 The following R files are included:
